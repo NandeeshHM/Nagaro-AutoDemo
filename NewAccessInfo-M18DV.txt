@@ -1,0 +1,7 @@
+{
+  host : "http://ip85lodr44a.ip.devcerner.net:8080",
+  authority : "m18dv.ip.devcerner.net",
+  path : "cv-inbound-report-rest-1.0.0/m18dv.ip.devcerner.net/service",
+  userName : "NH044651@m18dv",
+  password : "Heman@1989"
+}
